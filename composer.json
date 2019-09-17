@@ -1,6 +1,6 @@
 {
-  "name": "paravibe/gotowebinar",
-  "version": "1.0",
+  "name": "bladeaweb/gotowebinar",
+  "version": "1.0.2",
   "description": "The GoToWebinar API wrapper for PHP",
   "license": "MIT",
   "keywords": ["LogMeIn", "LogMeIn API", "GoToWebinar API", "GoToWebinar"],
